@@ -17,6 +17,9 @@ body {
     position: absolute;
     top: 17px;
     left: 10px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    font-weight: 400, 700;
 }
 
 .second_text{
@@ -28,7 +31,7 @@ body {
 
 .white-image{
     position: absolute;
-    border-radius: 20px;
+    border-radius: 25px;
     position: center;
     margin-left: 40%;
     margin-right: auto;
@@ -43,7 +46,5 @@ body {
     width: 458px;
     height: 400px;
     margin-left: 42%;
-    margin-top: 12%;
-    
-    
+    margin-top: 12%;    
 }
